@@ -1,16 +1,18 @@
 # test_degito
 
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Test #1
 
-A few resources to get you started if this is your first Flutter project:
+source code in Github repo
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+invite links : https://appdistribution.firebase.dev/i/ca495643b1bd24a9
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flow deploy app (PlayStore and AppStore) : PDF file attached (DeployApp.pdf)
+
+
+Test #2
+
+file name : test2.dart in project (test_app_degito/lib/test2.dart)
+
+copy code in test2.dart and paste in https://dartpad.dev
