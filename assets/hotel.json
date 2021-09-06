@@ -1,0 +1,86 @@
+{
+  "hotel": [
+    {
+      "name": "The Bentley",
+      "imagePreview": "assets/images/TheBentley.png",
+      "image": "assets/images/TheBentley.png",
+      "roomType": [
+        "Single Room",
+        "Double Room",
+        "Group Room",
+        "Family Room"
+      ],
+      "provideFacility": {
+        "freeWifi": true,
+        "spa": true,
+        "beach": false,
+        "pool": false,
+        "breakfast": true,
+        "bar": false,
+        "gym": false,
+        "parking": true
+      },
+      "roomTypePrice": [
+        5500.00,
+        7500.00,
+        10500.00,
+        9500.00
+      ]
+    },
+    {
+      "name": "Royal Lancaster",
+      "imagePreview": "assets/images/RoyalLancaster.png",
+      "image": "assets/images/RoyalLancasterPool.png",
+      "roomType": [
+        "Single Room",
+        "Double Room",
+        "Group Room",
+        "Family Room"
+      ],
+      "provideFacility": {
+        "freeWifi": true,
+        "spa": true,
+        "beach": false,
+        "pool": false,
+        "breakfast": true,
+        "bar": false,
+        "gym": false,
+        "parking": true
+      },
+      "roomTypePrice": [
+        5500.00,
+        7500.00,
+        10500.00,
+        9500.00
+      ]
+    },
+    {
+      "name": "Royal Lancaster",
+      "imagePreview": "assets/images/RoyalLancaster.png",
+      "image": "assets/images/RoyalLancasterPool.png",
+      "roomType": [
+        "Single Room",
+        "Double Room",
+        "Group Room",
+        "Family Room"
+      ],
+      "provideFacility": {
+        "freeWifi": true,
+        "spa": true,
+        "beach": false,
+        "pool": false,
+        "breakfast": true,
+        "bar": false,
+        "gym": false,
+        "parking": true
+      },
+      "roomTypePrice": [
+        5500.00,
+        7500.00,
+        10500.00,
+        9500.00
+      ]
+    }
+  ]
+}
+
